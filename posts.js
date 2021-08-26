@@ -21,3 +21,8 @@ function displayPosts(posts){
         postContainer.appendChild(div);
     }
 }
+
+
+function addAPost(){
+    
+}
